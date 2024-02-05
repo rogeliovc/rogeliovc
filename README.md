@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning JAVA, C, c++, HTML, CSS, PHYTON.
+- 🔭 I’m currently studying
+- - 😄 Pronouns: Rogelio
 
 <!--
 **rogeliovc/rogeliovc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
