@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning JAVA, C, c++, HTML, CSS, PHYTON.
+- 🌱 I’m currently learning JAVA, C, c++, HTML, CSS, PHYTON, Verilog.
 - 🔭 I’m currently studying
 - - 😄 Pronouns: Rogelio
 
