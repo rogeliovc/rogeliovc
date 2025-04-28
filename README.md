@@ -16,10 +16,6 @@ Sincronía — App móvil en Flutter para la gestión offline de tareas, música
 
 Diseño y desarrollo de la página oficial de la [Red Mexicana de Supercómputo (RedMexSu)](https://redmexsu.org)
 
-Estadísticas de GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rogeliovc&show_icons=true&theme=radical" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogeliovc&theme=radical" width="48%"/> </p>
-
-
 📖 Sobre mí
 
 Siempre en constante aprendizaje sobre programación y tecnología.
@@ -30,7 +26,6 @@ Comprometido con la mejora continua y la calidad del código.
 
 Mi objetivo es convertirme en un Full Stack Developer, dominando tanto backend como frontend.
 
-"La perseverancia supera al talento."
 
 📫 ¿Dónde encontrarme?
 
